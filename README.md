@@ -25,13 +25,13 @@ bash
 
 ## Menu interativo:
 
-=== Cadastro de Clientes ===
-1 - Cadastrar cliente
-2 - Listar clientes  
-3 - Editar cliente
-4 - Excluir cliente
-5 - Exportar CSV
-6 - Sair
+=== Cadastro de Clientes ===  
+1 - Cadastrar cliente     
+2 - Listar clientes   
+3 - Editar cliente  
+4 - Excluir cliente  
+5 - Exportar CSV  
+6 - Sair  
 
 
 ## Exemplo de Uso
@@ -46,6 +46,7 @@ Cliente cadastrado com sucesso.
 
 Nome,Data_nascimento,CPF
 João Silva,15/08/1990,123.456.789-00
+
 
 
 
